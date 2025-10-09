@@ -42,9 +42,9 @@ This Section applies to you if you use the Platform as a Financial Contributor.
 
 (a) **Responsibility. **Before committing to make any contribution via the Platform, each Financial Contributor must (i) read the full description of the Collective and its mission, and (ii) review the criteria and process requirements specified by the Collective and its Host (if any) for receiving expense payments. By contributing to the Fiscal Host for designation to a Collective, you agree to look solely to the applicable Contributors or Fiscal Host of the applicable Collective to resolve any questions or disputes regarding contributions or expected payments.
 
-(b) **Contributions.** Each contribution you make is paid directly to the Host of the Collective (the “Host Organization”). The Host receives and administers the funds on behalf of the Collective in accordance with its own terms and applicable law.
+(b) **Contributions.** Each contribution you make is paid directly to the Host of the Collective. The Host receives and administers the funds on behalf of the Collective in accordance with its own terms and applicable law.
 
-When making a contribution, you may be offered the option to include a Platform Tip to support the operation and maintenance of the Open Collective Platform, operated by OFi Technologies. Platform Tips are voluntary unless otherwise specified and are part of the total amount collected by the Host Organization together with your contribution. Platform Tips are accounted for separately from the Collective’s funds and do not reduce the amount contributed to the Collective.
+When making a contribution, you may be offered the option to include a Platform Tip to support the operation and maintenance of the Platform, operated by OFi Technologies. Platform Tips are voluntary unless otherwise specified and are part of the total amount collected by the Host together with your contribution. Platform Tips are accounted for separately from the Collective’s funds and do not reduce the amount contributed to the Collective.
 
 The Host is responsible for remitting any Platform Tips collected to OFi Technologies (or its affiliates) as described in Section 9 (Fees). Your contribution, minus any Host Fees, payment-processor fees, and applicable taxes, will be used by the Host in support of the Collective you have designated.
 
@@ -92,15 +92,15 @@ Expense Submitters must only submit requests for payment via the Platform for ex
 
 ## 9. Fees
 
-(a) **Platform Tips and Platform Fees** The Open Collective Platform, operated by OFi Technologies, relies primarily on voluntary Platform Tips to sustain the operation, development, and maintenance of the Platform.
+(a) **Platform Tips and Platform Fees** The Platform, operated by OFi Technologies, relies primarily on voluntary Platform Tips to sustain its operation, development, and maintenance.
 
-Platform Tips are part of the total amount collected by the Host Organization when a Contributor makes a payment. Platform Tips are accounted for separately from Collective funds and do not reduce the amount contributed to the Collective.
+Platform Tips are part of the total amount collected by the Host when a Contributor makes a payment. Platform Tips are accounted for separately from Collective funds and do not reduce the amount contributed to the Collective.
 
-The Host Organization is responsible for remitting all Platform Tips collected to OFi Technologies (or its affiliates). Remittance may occur:
+The Host is responsible for remitting all Platform Tips collected to OFi Technologies (or its affiliates). Remittance may occur:
 a. automatically through the payment processor’s integrated “application fee” mechanism (for example, Stripe); or
 b. periodically through invoicing or reconciliation when automatic transfer is not available.
 
-In cases where Platform Tips are not enabled or available for a Contribution, OFi Technologies may apply a Platform Fee of five percent (5%), charged to the Host Organization.
+In cases where Platform Tips are not enabled or available for a Contribution, OFi Technologies may apply a Platform Fee of five percent (5%), charged to the Host.
 
 (b) **Fees to Host.** The Host may retain a percentage of all contributions (the "**Host Fee**"). Hosts must disclose this fee to the Collective Administrator and the Financial Contributors on the Collective page.
 
