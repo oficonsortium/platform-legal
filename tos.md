@@ -112,7 +112,7 @@ In cases where Platform Tips are not enabled or available for a Contribution, OF
 
 (e) **Host Plans.** OFiTech provides a range of plans for Hosts using the Platform.
 
-The Discover Plan is the base plan available to all Hosts. It includes a free allowance of up to one Active Collective (a Collective that has received or disbursed funds during the billing period) and ten Paid Expenses per billing period. Additional usage beyond these included amounts is billed at the applicable per-unit rates.
+The Discover Plan is the base plan available to all Hosts. It includes a free allowance of up to one Active Collective (a Collective that has received or disbursed funds during the billing period) and ten Paid Expenses per billing period. Additional usage beyond these included amounts is billed at the applicable per-unit rates. Current per-unit rates are published at [https://opencollective.com/pricing](https://opencollective.com/pricing).
 
 Paid plans, such as Basic and Pro, provide higher included allowances and access to additional features. The scope, allowances, and pricing of these plans are published separately and may be updated from time to time.
 
