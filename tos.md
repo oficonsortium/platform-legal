@@ -2,13 +2,13 @@
 
 **Last Updated: 16 August 2019**
 
-These Terms of Service ("**Terms**") apply to your access to and use of the websites, applications and other online products and services (collectively, our “**Platform**”) provided by OFi Technologies LLC (“**OFiTech**” or “**we**”). **By creating an account or otherwise accessing the Platform, you agree to these Terms. If you do not agree to these Terms, including the mandatory arbitration provision and class action waiver in Section 18 that applies to residents of the United States, do not access or use our Platform.**
+These Terms of Service ("**Terms**") apply to your access to and use of the websites, applications and other online products and services (collectively, our "**Platform**") provided by OFi Technologies LLC ("**OFiTech**" or "**we**"). **By creating an account or otherwise accessing the Platform, you agree to these Terms. If you do not agree to these Terms, including the mandatory arbitration provision and class action waiver in Section 18 that applies to residents of the United States, do not access or use our Platform.**
 
 If you have any questions about these Terms, you may contact us at [support@opencollective.com](mailto:support@opencollective.com). Please refer to our [Privacy Policy](/privacypolicy) for information about how we collect, use and disclose information about you.
 
 ## 1. Overview of Our Platform
 
-(a) Our Platform provides a system that may be used by individuals (“Individuals”), by legal entities (“Organizations”), and by groups with a shared purpose (“Collectives”) to create accounts and collaborate around shared financial activity.
+(a) Our Platform provides a system that may be used by individuals ("Individuals"), by legal entities ("Organizations"), and by groups with a shared purpose ("Collectives") to create accounts and collaborate around shared financial activity.
 
 Individuals and Organizations can participate directly on the Platform, for example by contributing funds to Collectives or by submitting and receiving payment for expenses. Collectives use a Host to collect and disburse funds that support their activities.
 
@@ -60,7 +60,7 @@ Our Platform allows you to use and store a payment method via the Platform that 
 
 (e) **Refunds.** Except as provided in these Terms, ALL CONTRIBUTIONS ARE FINAL, AND THERE ARE NO REFUNDS. You agree (i) to look solely to the Contributors or Host of an applicable Collective to resolve any disputes regarding contributions that you make via the Platform, and (ii) that the Collective Administrator or Host are solely responsible for providing any refunds. Any refunds initiated by Contributors or Hosts via the Platform may be credited to the Payment Method maintained in your account.
 
-(f) **Recognition.** Financial Contributors may receive certain advertising, marketing, or other recognition ("**Recognition**") in exchange for their contributions. Subject to these terms, all Financial Contributors will receive the following Recognition: logo placement on the Collective page together with a link to the Financial Contributor’s profile page (“**Baseline Recognition**”). Financial Contributors may receive additional Recognition if specified by an Collective Administrator within the applicable Collective page. Each Financial Contributor acknowledges and agrees that any Recognition beyond the Baseline Recognition is provided solely by the Collective Administrator and the Host of the applicable Collective, and that OFiTech is not responsible for fulfilling any, and does not make any representations or warranties with respect to, such supplemental Recognition offered by the Collective. Financial Contributors agree to look solely to the applicable Host or Collective Administrator regarding receipt of any supplemental Recognition.
+(f) **Recognition.** Financial Contributors may receive certain advertising, marketing, or other recognition ("**Recognition**") in exchange for their contributions. Subject to these terms, all Financial Contributors will receive the following Recognition: logo placement on the Collective page together with a link to the Financial Contributor’s profile page ("**Baseline Recognition**"). Financial Contributors may receive additional Recognition if specified by an Collective Administrator within the applicable Collective page. Each Financial Contributor acknowledges and agrees that any Recognition beyond the Baseline Recognition is provided solely by the Collective Administrator and the Host of the applicable Collective, and that OFiTech is not responsible for fulfilling any, and does not make any representations or warranties with respect to, such supplemental Recognition offered by the Collective. Financial Contributors agree to look solely to the applicable Host or Collective Administrator regarding receipt of any supplemental Recognition.
 
 (g) **Intellectual Property Rights.** To receive Baseline Recognition, Financial Contributors must provide a logo or similar branding material via the Platform. To the extent a Financial Contributor provides any trademarks, trade names, logos or other branding materials to OFiTech ("**Financial Contributor Marks**"), the Financial Contributor hereby grants (i) to OFiTech a non-exclusive, sublicensable license to use and display the Financial Contributor Marks via the Platform for purposes of fulfilling the Baseline Recognition and any supplemental Recognition offered by the applicable Collective, and (ii) to the Collective Administrator, a non-exclusive, non-transferable license to use and display the Financial Contributor Marks as mutually agreed upon by the Financial Contributor and the Collective Administrator in connection with any supplemental Recognition.
 
@@ -101,7 +101,7 @@ Expense Submitters must only submit requests for payment via the Platform for ex
 Platform Tips are part of the total amount collected by the Host when a Contributor makes a payment. Platform Tips are accounted for separately from Collective funds and do not reduce the amount contributed to the Collective.
 
 The Host is responsible for remitting all Platform Tips collected to OFiTech (or its affiliates). Remittance may occur:
-a. automatically through the payment processor’s integrated “application fee” mechanism (for example, Stripe); or
+a. automatically through the payment processor’s integrated "application fee" mechanism (for example, Stripe); or
 b. periodically through invoicing or reconciliation when automatic transfer is not available.
 
 In cases where Platform Tips are not enabled or available for a Contribution, OFiTech may apply a Platform Fee of five percent (5%), charged to the Host.
@@ -212,7 +212,7 @@ To the fullest extent permitted by applicable law, you will indemnify, defend, a
 
 (a) We do not control, endorse or take responsibility for any User Content or third-party content available on or linked to by our **Platform**. We do not control the collection of contributions or the disbursement of expense payments through our **Platform**
 
-(b) Your use of our **Platform** is at your sole risk. Our **Platform** is provided "as is" and “as available” without warranties of any kind, either express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement. In addition, OFiTech does not represent or warrant that our **Platform** is accurate, complete, reliable, current or error-free. While OFiTech attempts to make your access to and use of our **Platform** safe, we cannot and do not represent or warrant that our **Platform** or servers are free of viruses or other harmful components. You assume the entire risk as to the quality and performance of the **Platform**.
+(b) Your use of our **Platform** is at your sole risk. Our **Platform** is provided "as is" and "as available" without warranties of any kind, either express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement. In addition, OFiTech does not represent or warrant that our **Platform** is accurate, complete, reliable, current or error-free. While OFiTech attempts to make your access to and use of our **Platform** safe, we cannot and do not represent or warrant that our **Platform** or servers are free of viruses or other harmful components. You assume the entire risk as to the quality and performance of the **Platform**.
 
 ## 18. Limitation of Liability
 
