@@ -46,8 +46,7 @@ This Section applies to you if you use the Platform as a Financial Contributor.
 
 (a) **Responsibility. **Before committing to make any contribution via the Platform, each Financial Contributor must (i) read the full description of the Collective and its mission, and (ii) review the criteria and process requirements specified by the Collective and its Host (if any) for receiving expense payments. By contributing to the Host for designation to a Collective, you agree to look solely to the applicable Contributors or Host of the applicable Collective to resolve any questions or disputes regarding contributions or expected payments.
 
-
-(b) **Contributions.** Each contribution you make is paid directly to the Host of the Collective. The Host receives and administers the funds on behalf of the Collective in accordance with its own terms and applicable law.
+(b) **Contributions.** Each contribution you make is paid directly to an Organization that receives and holds funds. When a contribution is intended for a Collective, it is received and held by the Organization acting as its Host and must be used (less any applicable fees) in support of the designated Collective. When a contribution is intended for an Organization, it is held and used in accordance with that Organization’s stated purpose and terms.
 
 When making a contribution, you may be offered the option to include a Platform Tip to support the operation and maintenance of the Platform, operated by OFiTech. Platform Tips are voluntary unless otherwise specified and are part of the total amount collected by the Host together with your contribution. Platform Tips are accounted for separately from the Collective’s funds and do not reduce the amount contributed to the Collective.
 
