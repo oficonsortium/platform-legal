@@ -178,9 +178,7 @@ We have a policy of limiting access to our Platform and terminating the accounts
 
 Designated Agent: DMCA Requests
 
-Address: OFi Technologies LLC
-
-440 N. Barranca Avenue #3489
+Address: OFi Technologies LLC, 440 N. Barranca Avenue #3489
 
 Covina, CA 91723, USA
 
