@@ -102,8 +102,6 @@ The Host is responsible for remitting all Platform Tips collected to OFiTech (or
 a. automatically through the payment processor’s integrated "application fee" mechanism (for example, Stripe); or
 b. periodically through invoicing or reconciliation when automatic transfer is not available.
 
-In cases where Platform Tips are not enabled or available for a Contribution, OFiTech may apply a Platform Fee (at the currently applicable rate) charged to the Host.
-
 In cases where Platform Tips are not enabled or available for a Contribution, OFiTech may apply a Platform Fee (at the rate published at [https://opencollective.com/pricing](https://opencollective.com/pricing) or such other location as we may designate from time to time) charged to the Host.
 
 (c) **Third-Party Payment Service Fees**. If you use a separately branded third-party payment service (such as PayPal) to accept payment or pay the expenses submitted, the party responsible for that service may charge additional fees.
