@@ -104,7 +104,7 @@ b. periodically through invoicing or reconciliation when automatic transfer is n
 
 In cases where Platform Tips are not enabled or available for a Contribution, OFiTech may apply a Platform Fee (at the rate published at [https://opencollective.com/pricing](https://opencollective.com/pricing) or such other location as we may designate from time to time) charged to the Host.
 
-(c) **Payment Processor Fees**. If you use a Payment Processor (as defined in Section 1(d)) to accept payment or pay the expenses submitted, the party responsible for that service may charge additional fees.
+(c) **Payment Processor Fees**. If you use a Payment Processor (as defined in Section 1(b)) to accept payment or pay the expenses submitted, the party responsible for that service may charge additional fees.
 
 (d) **Taxes.** It is the Host’s responsibility to determine what, if any taxes apply to collection of contributions and disbursement of expense payments, including, for example, sales, use, value added, and similar taxes. It is also the Host’s responsibility to withhold, collect, report and remit the correct taxes to the appropriate tax authorities. OFiTech is not responsible for withholding, collecting, reporting, or remitting any sales, use, value added, or similar tax arising from any transaction completed via the Platform.
 
