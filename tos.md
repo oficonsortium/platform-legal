@@ -72,9 +72,9 @@ This Section applies to you if you use the Platform as an Collective Administrat
 
 This Section applies to you if you use the Platform as a Host.
 
-(a) **Set-Up.** Any person or entity seeking to serve as Host for a Collective must be approved via the Platform. All Hosts must maintain a valid financial account with a payment processor designated by OFiTech. They must also agree to remit any Platform Tips collected through that processor, either automatically via the payment processor’s integrated application-fee mechanism or periodically through invoicing or reconciliation, as described in Section 9 (Fees).
+(a) **Set-Up.** Any person or entity seeking to serve as Host for a Collective must be approved via the Platform. All Hosts must maintain a valid financial account with a payment processor designated by OFiTech. They must also agree to remit any Platform Tips collected through that processor, either automatically via the payment processor’s integrated application-fee mechanism or periodically through invoicing or reconciliation, as described in Section 9 (Fees). Hosts are also subject to the plan terms and usage allowances described in Section 9(e).
 
-(b) **Contributions. **You agree to accept contributions of funds from Financial Contributors for designation to a specific Collective ("**Collective Funds**"). You must take accounting measures to segregate Collective Funds from your other funds, and maintain and use the Collective Funds solely for the benefit of the designated Collective and in accordance with these Terms. The Platform is designed to assist you in satisfying these responsibilities, by enabling you to export the global ledger and helping you to track the budget of each Collective to determine whether the Collective is operating as intended.
+(b) **Contributions.** You agree to accept contributions of funds from Financial Contributors for designation to a specific Collective ("**Collective Funds**"). You must take accounting measures to segregate Collective Funds from your other funds, and maintain and use the Collective Funds solely for the benefit of the designated Collective and in accordance with these Terms. The Platform is designed to assist you in satisfying these responsibilities, by enabling you to export the global ledger and helping you to track the budget of each Collective to determine whether the Collective is operating as intended.
 
 (c) **Expense Payments.** You may receive requests for payment of Collective Funds in the form of Expenses (**Expenses**) from Collective Administrators in connection with expense payment requests submitted by Expense Submitters. Expenses must be approved by a Collective Administrator through the Platform before they are eligible for payment. You are responsible for reviewing Expenses to confirm that they meet the Collective’s applicable criteria and process requirements for payment, and only authorizing disbursements if the Expense meets such requirements and is permitted under applicable law. If the Expense meets such requirements, you will authorize disbursement of the applicable amount of Collective Funds via the Platform.
 
@@ -107,6 +107,18 @@ In cases where Platform Tips are not enabled or available for a Contribution, OF
 (c) **Third-Party Payment Service Fees**. If you use a separately branded third-party payment service (such as PayPal) to accept payment or pay the expenses submitted, the party responsible for that service may charge additional fees.
 
 (d) **Taxes.** It is the Host’s responsibility to determine what, if any taxes apply to collection of contributions and disbursement of expense payments, including, for example, sales, use, value added, and similar taxes. It is also the Host’s responsibility to withhold, collect, report and remit the correct taxes to the appropriate tax authorities. OFiTech is not responsible for withholding, collecting, reporting, or remitting any sales, use, value added, or similar tax arising from any transaction completed via the Platform.
+
+(e) **Host Plans.** OFi Technologies provides a range of plans for Hosts using the Platform.
+
+The Discover Plan is the base plan available to all Hosts. It includes a free allowance of up to one Active Collective and ten Paid Expenses per billing period. Additional usage beyond these included amounts is billed at the applicable per-unit rates.
+
+Paid plans, such as Basic and Pro, provide higher included allowances and access to additional features. The scope, allowances, and pricing of these plans are published separately and may be updated from time to time.
+
+Usage-based charges may apply for measurable activity, including the number of Active Collectives hosted, the number of Expenses processed, and access to premium or optional features.
+
+Hosts are billed monthly at the end of each calendar billing period for any plan fees and usage-based charges. Payment may be processed automatically through the designated payment processor or by invoice, as determined by OFiTech. Payment is due upon receipt unless otherwise specified in writing.
+
+Host Plans are separate from and in addition to any Host Fees, Platform Tips, or Platform Fees described elsewhere in these Terms.
 
 ## 10. User Content
 
@@ -178,9 +190,7 @@ We have a policy of limiting access to our Platform and terminating the accounts
 
 Designated Agent: DMCA Requests
 
-Address: OFi Technologies LLC
-
-440 N. Barranca Avenue #3489
+Address: OFi Technologies LLC, 440 N. Barranca Avenue #3489
 
 Covina, CA 91723, USA
 
