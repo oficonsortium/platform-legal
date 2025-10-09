@@ -92,7 +92,7 @@ Expense Submitters must only submit requests for payment via the Platform for ex
 
 ## 9. Fees
 
-(a) **Platform Tips and Platform Fees** The Platform, operated by OFiTech, relies primarily on voluntary Platform Tips to sustain its operation, development, and maintenance.
+(a) **Platform Tips and Platform Fees.** The Platform, operated by OFiTech, relies primarily on voluntary Platform Tips to sustain its operation, development, and maintenance.
 
 Platform Tips are part of the total amount collected by the Host when a Contributor makes a payment. Platform Tips are accounted for separately from Collective funds and do not reduce the amount contributed to the Collective.
 
