@@ -20,9 +20,9 @@ If you have any questions about these Terms, you may contact us at [support@open
 
 - **"Expense Submitter"** - a Expense Submitter is a Contributor that submits a payment request in connection with an expense incurred by that user in support of a Collective. Additional terms for Expense Submitters are included in Section 8 below.
 
-- **"Platform Tip"** - a voluntary amount added by a Financial Contributor to support the operation, maintenance, and development of the Open Collective Platform, as described in Section 9 (Fees). Platform Tips are included in the total contribution received by the Fiscal Host and later remitted to OFi Technologies in accordance with these Terms.
+- **"Platform Tip"** - a voluntary amount added by a Financial Contributor to support the operation, maintenance, and development of the Open Collective Platform, as described in Section 9 (Fees). Platform Tips are included in the total contribution received by the Fiscal Host and later remitted to OFiTech in accordance with these Terms.
 
-(b) For clarity, the Platform does not store or transmit funds. All funds, including any Platform Tips, are collected by Fiscal Hosts through integrated third-party payment processors or through other approved or manual payment methods. Platform Tips remain part of the total contribution received by the Fiscal Host and are subsequently remitted to OFi Technologies in accordance with Section 9 (Fees).
+(b) For clarity, the Platform does not store or transmit funds. All funds, including any Platform Tips, are collected by Fiscal Hosts through integrated third-party payment processors or through other approved or manual payment methods. Platform Tips remain part of the total contribution received by the Fiscal Host and are subsequently remitted to OFiTech in accordance with Section 9 (Fees).
 
 (c) You acknowledge and agree that: (i) Open Collective is not a party to and has no responsibility or liability with respect to any communications, transaction, interactions, disputes, or any relationships whatsoever between users; (ii) Open Collective does not have any responsibility to investigate or verify the reputation, conduct, morality or criminal background of any user; and (iii) Open Collective has no responsibility with respect to determining or paying applicable taxes with respect to the Collective or any users.
 
@@ -44,9 +44,9 @@ This Section applies to you if you use the Platform as a Financial Contributor.
 
 (b) **Contributions.** Each contribution you make is paid directly to the Host of the Collective. The Host receives and administers the funds on behalf of the Collective in accordance with its own terms and applicable law.
 
-When making a contribution, you may be offered the option to include a Platform Tip to support the operation and maintenance of the Platform, operated by OFi Technologies. Platform Tips are voluntary unless otherwise specified and are part of the total amount collected by the Host together with your contribution. Platform Tips are accounted for separately from the Collective’s funds and do not reduce the amount contributed to the Collective.
+When making a contribution, you may be offered the option to include a Platform Tip to support the operation and maintenance of the Platform, operated by OFiTech. Platform Tips are voluntary unless otherwise specified and are part of the total amount collected by the Host together with your contribution. Platform Tips are accounted for separately from the Collective’s funds and do not reduce the amount contributed to the Collective.
 
-The Host is responsible for remitting any Platform Tips collected to OFi Technologies (or its affiliates) as described in Section 9 (Fees). Your contribution, minus any Host Fees, payment-processor fees, and applicable taxes, will be used by the Host in support of the Collective you have designated.
+The Host is responsible for remitting any Platform Tips collected to OFiTech (or its affiliates) as described in Section 9 (Fees). Your contribution, minus any Host Fees, payment-processor fees, and applicable taxes, will be used by the Host in support of the Collective you have designated.
 
 Our Platform allows you to use and store a payment method via the Platform that is acceptable to us ("**Payment Method**") to pay for any contributions or to receive any expense payments. You represent and warrant that you are authorized to use the Payment Method. You authorize our designated third-party payments processor to charge the amount specified to your Payment Method for any contribution you authorize via the Platform. If the Payment Method cannot be verified, is invalid, or is not otherwise acceptable, your contribution may be suspended or cancelled automatically. Some Payment Methods may be offered as separately branded payment services (such as PayPal), and you agree to comply with the terms of those services.
 
@@ -72,7 +72,7 @@ This Section applies to you if you use the Platform as an Collective Administrat
 
 This Section applies to you if you use the Platform as a Host.
 
-(a) **Set-Up.** Any person or entity seeking to serve as Host for a Collective must be approved via the Platform. All Hosts must maintain a valid financial account with a payment processor designated by OFi Technologies. They must also agree to remit any Platform Tips collected through that processor, either automatically via the payment processor’s integrated application-fee mechanism or periodically through invoicing or reconciliation, as described in Section 9 (Fees).
+(a) **Set-Up.** Any person or entity seeking to serve as Host for a Collective must be approved via the Platform. All Hosts must maintain a valid financial account with a payment processor designated by OFiTech. They must also agree to remit any Platform Tips collected through that processor, either automatically via the payment processor’s integrated application-fee mechanism or periodically through invoicing or reconciliation, as described in Section 9 (Fees).
 
 (b) **Contributions. **You agree to accept contributions of funds from Financial Contributors for designation to a specific Collective ("**Collective Funds**"). You must take accounting measures to segregate Collective Funds from your other funds, and maintain and use the Collective Funds solely for the benefit of the designated Collective and in accordance with these Terms. The Platform is designed to assist you in satisfying these responsibilities, by enabling you to export the global ledger and helping you to track the budget of each Collective to determine whether the Collective is operating as intended.
 
@@ -92,15 +92,15 @@ Expense Submitters must only submit requests for payment via the Platform for ex
 
 ## 9. Fees
 
-(a) **Platform Tips and Platform Fees** The Platform, operated by OFi Technologies, relies primarily on voluntary Platform Tips to sustain its operation, development, and maintenance.
+(a) **Platform Tips and Platform Fees** The Platform, operated by OFiTech, relies primarily on voluntary Platform Tips to sustain its operation, development, and maintenance.
 
 Platform Tips are part of the total amount collected by the Host when a Contributor makes a payment. Platform Tips are accounted for separately from Collective funds and do not reduce the amount contributed to the Collective.
 
-The Host is responsible for remitting all Platform Tips collected to OFi Technologies (or its affiliates). Remittance may occur:
+The Host is responsible for remitting all Platform Tips collected to OFiTech (or its affiliates). Remittance may occur:
 a. automatically through the payment processor’s integrated “application fee” mechanism (for example, Stripe); or
 b. periodically through invoicing or reconciliation when automatic transfer is not available.
 
-In cases where Platform Tips are not enabled or available for a Contribution, OFi Technologies may apply a Platform Fee of five percent (5%), charged to the Host.
+In cases where Platform Tips are not enabled or available for a Contribution, OFiTech may apply a Platform Fee of five percent (5%), charged to the Host.
 
 (b) **Fees to Host.** The Host may retain a percentage of all contributions (the "**Host Fee**"). Hosts must disclose this fee to the Collective Administrator and the Financial Contributors on the Collective page.
 
