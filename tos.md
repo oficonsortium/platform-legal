@@ -8,9 +8,13 @@ If you have any questions about these Terms, you may contact us at [support@open
 
 ## 1. Overview of Our Platform
 
-(a) Our Platform provides a platform that may be used by an organization or group with a shared purpose (a "**Collective**") to work with a Fiscal Host to enable the Collective to collect and disburse funds for expenses that support the Collective. The goal of our Platform is to promote transparency and make it easier to track incoming and outgoing funds for the benefit of the Collective. Below is a list of the different roles that may be associated with each Collective:
+(a) Our Platform provides a system that may be used by individuals (“Individuals”), by legal entities (“Organizations”), and by groups with a shared purpose (“Collectives”) to create accounts and collaborate around shared financial activity.
 
-- **"Fiscal Host"** - The Fiscal Host is an individual or entity that receives and holds funds contributed by Financial Contributors via the Platform for use in support of a designated Collective. Fiscal Hosts are also referred to as Hosts. Additional terms for Fiscal Hosts are included in Section 7 below.
+Individuals and Organizations can participate directly on the Platform, for example by contributing funds to Collectives or by submitting and receiving payment for expenses. Collectives use a Host to collect and disburse funds that support their activities.
+
+The goal of the Platform is to promote transparency and make it easier to track incoming and outgoing funds for the benefit of Individuals, Collectives, and Organizations. Below is a list of the main roles that may be associated with each Collective:
+
+- **"Host"** - an Organization that receives and holds funds contributed by Financial Contributors via the Platform, either for its own use or on behalf of one or more Collectives. Hosts may also be referred to as Fiscal Hosts. Additional terms for Hosts are included in Section 7 below.
 
 - **"Contributor"** - a Contributor is an individual or entity that participates in the Collective in some way, such as by acting as a Collective Administrator, Financial Contributor, or Expense Submitter, or by participating in any other way, such as attending a Collective’s event.
 
