@@ -14,19 +14,19 @@ Individuals and Organizations can participate directly on the Platform, for exam
 
 The goal of the Platform is to promote transparency and make it easier to track incoming and outgoing funds for the benefit of Individuals, Collectives, and Organizations. Below is a list of the main roles that may be associated with each Collective:
 
-- **"Host"** - an Organization that receives and holds funds contributed by Financial Contributors via the Platform, either for its own use or on behalf of one or more Collectives. Hosts may also be referred to as Fiscal Hosts. Additional terms for Hosts are included in Section 7 below.
+- **"Host"** - an Organization that receives and holds funds contributed by Financial Contributors via the Platform, either for its own use or on behalf of one or more Collectives. Hosts may also be referred to as "Fiscal Hosts". Additional terms for Hosts are included in Section 7 below.
 
 - **"Contributor"** - a Contributor is an individual or entity that participates in the Collective in some way, such as by acting as a Collective Administrator, Financial Contributor, or Expense Submitter, or by participating in any other way, such as attending a Collective’s event.
 
 - **"Collective Administrator"** - A Collective Administrator is a Contributor that has administrator responsibilities for a Collective, including editing its content and the ability to approve expense payments associated with the Collective. Collective Administrators are also referred to as core contributors or admins on the Platform. Additional terms for Collective Administrators are included in Section 5 below.
 
-- **"Financial Contributor"** - A Financial Contributor is a Contributor that uses the Platform to contribute funds to a Fiscal Host that are intended to support a particular Collective. Additional terms for Financial Contributors are included in Section 4 below.
+- **"Financial Contributor"** - A Financial Contributor is a Contributor that uses the Platform to contribute funds to a Host that are intended to support a particular Collective. Additional terms for Financial Contributors are included in Section 4 below.
 
 - **"Expense Submitter"** - a Expense Submitter is a Contributor that submits a payment request in connection with an expense incurred by that user in support of a Collective. Additional terms for Expense Submitters are included in Section 8 below.
 
-- **"Platform Tip"** - a voluntary amount added by a Financial Contributor to support the operation, maintenance, and development of the Open Collective Platform, as described in Section 9 (Fees). Platform Tips are included in the total contribution received by the Fiscal Host and later remitted to OFiTech in accordance with these Terms.
+- **"Platform Tip"** - a voluntary amount added by a Financial Contributor to support the operation, maintenance, and development of the Open Collective Platform, as described in Section 9 (Fees). Platform Tips are included in the total contribution received by the Host and later remitted to OFiTech in accordance with these Terms.
 
-(b) For clarity, the Platform does not store or transmit funds. All funds, including any Platform Tips, are collected by Fiscal Hosts through integrated third-party payment processors or through other approved or manual payment methods. Platform Tips remain part of the total contribution received by the Fiscal Host and are subsequently remitted to OFiTech in accordance with Section 9 (Fees).
+(b) For clarity, the Platform does not store or transmit funds. All funds, including any Platform Tips, are collected by Hosts through integrated third-party payment processors or through other approved or manual payment methods. Platform Tips remain part of the total contribution received by the Host and are subsequently remitted to OFiTech in accordance with Section 9 (Fees).
 
 (c) You acknowledge and agree that: (i) OFiTech is not a party to and has no responsibility or liability with respect to any communications, transaction, interactions, disputes, or any relationships whatsoever between users; (ii) OFiTech does not have any responsibility to investigate or verify the reputation, conduct, morality or criminal background of any user; and (iii) OFiTech has no responsibility with respect to determining or paying applicable taxes with respect to the Collective or any users.
 
@@ -44,7 +44,8 @@ You may need to register for an account to access some or all of the Platform. I
 
 This Section applies to you if you use the Platform as a Financial Contributor.
 
-(a) **Responsibility. **Before committing to make any contribution via the Platform, each Financial Contributor must (i) read the full description of the Collective and its mission, and (ii) review the criteria and process requirements specified by the Collective and its Host (if any) for receiving expense payments. By contributing to the Fiscal Host for designation to a Collective, you agree to look solely to the applicable Contributors or Fiscal Host of the applicable Collective to resolve any questions or disputes regarding contributions or expected payments.
+(a) **Responsibility. **Before committing to make any contribution via the Platform, each Financial Contributor must (i) read the full description of the Collective and its mission, and (ii) review the criteria and process requirements specified by the Collective and its Host (if any) for receiving expense payments. By contributing to the Host for designation to a Collective, you agree to look solely to the applicable Contributors or Host of the applicable Collective to resolve any questions or disputes regarding contributions or expected payments.
+
 
 (b) **Contributions.** Each contribution you make is paid directly to the Host of the Collective. The Host receives and administers the funds on behalf of the Collective in accordance with its own terms and applicable law.
 
