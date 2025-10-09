@@ -2,7 +2,7 @@
 
 **Last Updated: 16 August 2019**
 
-These Terms of Service ("**Terms**") apply to your access to and use of the websites, applications and other online products and services (collectively, our “**Platform**”) provided by OFi Technologies Inc. (“**OFiTech**” or “**we**”). **By creating an account or otherwise accessing the Platform, you agree to these Terms. If you do not agree to these Terms, including the mandatory arbitration provision and class action waiver in Section 18 that applies to residents of the United States, do not access or use our Platform.**
+These Terms of Service ("**Terms**") apply to your access to and use of the websites, applications and other online products and services (collectively, our “**Platform**”) provided by OFi Technologies LLC (“**OFiTech**” or “**we**”). **By creating an account or otherwise accessing the Platform, you agree to these Terms. If you do not agree to these Terms, including the mandatory arbitration provision and class action waiver in Section 18 that applies to residents of the United States, do not access or use our Platform.**
 
 If you have any questions about these Terms, you may contact us at [support@opencollective.com](mailto:support@opencollective.com). Please refer to our [Privacy Policy](/privacypolicy) for information about how we collect, use and disclose information about you.
 
@@ -162,9 +162,11 @@ We have a policy of limiting access to our Platform and terminating the accounts
 
 Designated Agent: DMCA Requests
 
-Address: OFi Technologies Inc., 440 N. Barranca Avenue #3717
+Address: OFi Technologies LLC
 
-Covina, CA 91723
+440 N. Barranca Avenue #3489
+
+Covina, CA 91723, USA
 
 Telephone Number: +1 (802) 489-6736
 
