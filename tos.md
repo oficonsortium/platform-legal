@@ -18,11 +18,11 @@ The goal of the Platform is to promote transparency and make it easier to track 
 
 - **"Contributor"** - a Contributor is an individual or entity that participates in the Collective in some way, such as by acting as a Collective Administrator, Financial Contributor, or Expense Submitter, or by participating in any other way, such as attending a Collective’s event.
 
-- **"Collective Administrator"** - A Collective Administrator is a Contributor that has administrator responsibilities for a Collective, including editing its content and the ability to approve expense payments associated with the Collective. Collective Administrators are also referred to as core contributors or admins on the Platform. Additional terms for Collective Administrators are included in Section 5 below.
+- **"Collective Administrator"** - a Collective Administrator is a Contributor that has administrator responsibilities for a Collective, including editing its content and the ability to approve expense payments associated with the Collective. Collective Administrators are also referred to as core contributors or admins on the Platform. Additional terms for Collective Administrators are included in Section 5 below.
 
-- **"Financial Contributor"** - A Financial Contributor is a Contributor that uses the Platform to contribute funds to a Host that are intended to support a particular Collective. Additional terms for Financial Contributors are included in Section 4 below.
+- **"Financial Contributor"** - a Financial Contributor is a Contributor that uses the Platform to contribute funds to a Host that are intended to support a particular Collective. Additional terms for Financial Contributors are included in Section 4 below.
 
-- **"Expense Submitter"** - a Expense Submitter is a Contributor that submits a payment request in connection with an expense incurred by that user in support of a Collective. Additional terms for Expense Submitters are included in Section 8 below.
+- **"Expense Submitter"** - an Expense Submitter is a Contributor that submits a payment request in connection with an expense incurred by that user in support of a Collective. Additional terms for Expense Submitters are included in Section 8 below.
 
 - **"Platform Tip"** - a voluntary amount added by a Financial Contributor to support the operation, maintenance, and development of the Open Collective Platform, as described in Section 9 (Fees). Platform Tips are included in the total contribution received by the Host and later remitted to OFiTech in accordance with these Terms.
 
@@ -44,7 +44,7 @@ You may need to register for an account to access some or all of the Platform. I
 
 This Section applies to you if you use the Platform as a Financial Contributor.
 
-(a) **Responsibility. **Before committing to make any contribution via the Platform, each Financial Contributor must (i) read the full description of the Collective and its mission, and (ii) review the criteria and process requirements specified by the Collective and its Host (if any) for receiving expense payments. By contributing to the Host for designation to a Collective, you agree to look solely to the applicable Contributors or Host of the applicable Collective to resolve any questions or disputes regarding contributions or expected payments.
+(a) **Responsibility.** Before committing to make any contribution via the Platform, each Financial Contributor must (i) read the full description of the Collective and its mission, and (ii) review the criteria and process requirements specified by the Collective and its Host (if any) for receiving expense payments. By contributing to the Host for designation to a Collective, you agree to look solely to the applicable Contributors or Host of the applicable Collective to resolve any questions or disputes regarding contributions or expected payments.
 
 (b) **Contributions.** Each contribution you make is paid directly to an Organization that receives and holds funds. When a contribution is intended for a Collective, it is received and held by the Organization acting as its Host and must be used (less any applicable fees) in support of the designated Collective. When a contribution is intended for an Organization, it is held and used in accordance with that Organization’s stated purpose and terms.
 
@@ -210,17 +210,17 @@ To the fullest extent permitted by applicable law, you will indemnify, defend, a
 
 ## 17. Disclaimers
 
-(a) **We do not control, endorse or take responsibility for any User Content or third-party content available on or linked to by our **Platform**. We do not control the collection of contributions or the disbursement of expense payments through our **Platform\*\*
+(a) We do not control, endorse or take responsibility for any User Content or third-party content available on or linked to by our **Platform**. We do not control the collection of contributions or the disbursement of expense payments through our **Platform**
 
-(b) **Your use of our **Platform** is at your sole risk. Our **Platform** is provided "as is" and “as available” without warranties of any kind, either express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement. In addition, OFiTech does not represent or warrant that our **Platform** is accurate, complete, reliable, current or error-free. While OFiTech attempts to make your access to and use of our **Platform** safe, we cannot and do not represent or warrant that our **Platform** or servers are free of viruses or other harmful components. You assume the entire risk as to the quality and performance of the **Platform**.
+(b) Your use of our **Platform** is at your sole risk. Our **Platform** is provided "as is" and “as available” without warranties of any kind, either express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement. In addition, OFiTech does not represent or warrant that our **Platform** is accurate, complete, reliable, current or error-free. While OFiTech attempts to make your access to and use of our **Platform** safe, we cannot and do not represent or warrant that our **Platform** or servers are free of viruses or other harmful components. You assume the entire risk as to the quality and performance of the **Platform**.
 
 ## 18. Limitation of Liability
 
-(a) **OFiTech and the other OFiTech Parties will not be liable to you under any theory of liability—whether based in contract, tort, negligence, strict liability, warranty, or otherwise—for any indirect, consequential, exemplary, incidental, punitive or special damages or lost profits, even if OFiTech or the other OFiTech Parties have been advised of the possibility of such damages.**
+(a) OFiTech and the other OFiTech Parties will not be liable to you under any theory of liability—whether based in contract, tort, negligence, strict liability, warranty, or otherwise—for any indirect, consequential, exemplary, incidental, punitive or special damages or lost profits, even if OFiTech or the other OFiTech Parties have been advised of the possibility of such damages.
 
-(b) **The total liability of OFiTech and the other OFiTech Parties, for any claim arising out of or relating to these Terms or our Platform, regardless of the form of the action, is limited to the amount paid, if any, by you to access or use our Platform during the 12 months immediately preceding the event giving rise to your claim.**
+(b) The total liability of OFiTech and the other OFiTech Parties, for any claim arising out of or relating to these Terms or our Platform, regardless of the form of the action, is limited to the amount paid, if any, by you to access or use our Platform during the 12 months immediately preceding the event giving rise to your claim.
 
-(c) **The limitations set forth in this section will not limit or exclude liability for the gross negligence, fraud or intentional, willful, malicious or reckless misconduct of OFiTech or the other OFiTech Parties.**
+(c) The limitations set forth in this section will not limit or exclude liability for the gross negligence, fraud or intentional, willful, malicious or reckless misconduct of OFiTech or the other OFiTech Parties.
 
 ## 19. Release
 
