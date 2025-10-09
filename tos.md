@@ -26,7 +26,7 @@ The goal of the Platform is to promote transparency and make it easier to track 
 
 - **"Platform Tip"** - a voluntary amount added by a Financial Contributor to support the operation, maintenance, and development of the Open Collective Platform, as described in Section 9 (Fees). Platform Tips are included in the total contribution received by the Host and later remitted to OFiTech in accordance with these Terms.
 
-(b) For clarity, the Platform does not store or transmit funds. All funds, including any Platform Tips, are collected by Hosts through integrated third-party payment processors or through other approved or manual payment methods. Platform Tips remain part of the total contribution received by the Host and are subsequently remitted to OFiTech in accordance with Section 9 (Fees).
+(b) For clarity, the Platform does not at any time receive, hold, or control funds on behalf of users. All funds, including any Platform Tips, are collected by Hosts through integrated third-party Payment Processors or through other approved or manual payment methods.
 
 (c) You acknowledge and agree that: (i) OFiTech is not a party to and has no responsibility or liability with respect to any communications, transaction, interactions, disputes, or any relationships whatsoever between users; (ii) OFiTech does not have any responsibility to investigate or verify the reputation, conduct, morality or criminal background of any user; and (iii) OFiTech has no responsibility with respect to determining or paying applicable taxes with respect to the Collective or any users.
 
@@ -104,7 +104,7 @@ The Host is responsible for remitting all Platform Tips collected to OFiTech (or
 a. automatically through the payment processor’s integrated "application fee" mechanism (for example, Stripe); or
 b. periodically through invoicing or reconciliation when automatic transfer is not available.
 
-In cases where Platform Tips are not enabled or available for a Contribution, OFiTech may apply a Platform Fee of five percent (5%), charged to the Host.
+In cases where Platform Tips are not enabled or available for a Contribution, OFiTech may apply a Platform Fee (at the currently applicable rate) charged to the Host.
 
 (b) **Fees to Host.** The Host may retain a percentage of all contributions (the "**Host Fee**"). Hosts must disclose this fee to the Collective Administrator and the Financial Contributors on the Collective page.
 
@@ -112,9 +112,9 @@ In cases where Platform Tips are not enabled or available for a Contribution, OF
 
 (d) **Taxes.** It is the Host’s responsibility to determine what, if any taxes apply to collection of contributions and disbursement of expense payments, including, for example, sales, use, value added, and similar taxes. It is also the Host’s responsibility to withhold, collect, report and remit the correct taxes to the appropriate tax authorities. OFiTech is not responsible for withholding, collecting, reporting, or remitting any sales, use, value added, or similar tax arising from any transaction completed via the Platform.
 
-(e) **Host Plans.** OFi Technologies provides a range of plans for Hosts using the Platform.
+(e) **Host Plans.** OFiTech provides a range of plans for Hosts using the Platform.
 
-The Discover Plan is the base plan available to all Hosts. It includes a free allowance of up to one Active Collective and ten Paid Expenses per billing period. Additional usage beyond these included amounts is billed at the applicable per-unit rates.
+The Discover Plan is the base plan available to all Hosts. It includes a free allowance of up to one Active Collective (a Collective that has received or disbursed funds during the billing period) and ten Paid Expenses per billing period. Additional usage beyond these included amounts is billed at the applicable per-unit rates.
 
 Paid plans, such as Basic and Pro, provide higher included allowances and access to additional features. The scope, allowances, and pricing of these plans are published separately and may be updated from time to time.
 
