@@ -131,12 +131,14 @@ If the breach does not pose such a risk, we may record it internally without not
 
 ## International Data Transfers
 
-**OFiTech** is based in the United States and the information we collect is governed by U.S. law. When we transfer personal data from the European Economic Area (EEA), United Kingdom, or Switzerland to the United States or other countries which have not been determined by the European Commission to have laws that provide an adequate level of data protection, we use legal mechanisms designed to help ensure your rights and protections, including:
+**OFiTech** is based in the United States, and the information we collect is governed by U.S. law. When we transfer personal data from the European Economic Area ("EEA"), the United Kingdom ("UK"), or Switzerland to the United States or other countries that have not been determined by the European Commission to provide an adequate level of data protection, we apply lawful transfer mechanisms designed to protect your personal data.
 
-- Standard Contractual Clauses approved by the European Commission
-- Obtaining your explicit consent for certain types of processing
+These safeguards include:
+- Standard Contractual Clauses ("SCCs") — We use the European Commission's approved Standard Contractual Clauses, supplemented with additional technical and organizational measures (such as encryption and limited access) to protect your information.
+- UK Addendum and Swiss Addendum — For data transfers from the UK and Switzerland, we apply the equivalent contractual clauses recognized by the UK Information Commissioner's Office and the Swiss Federal Data Protection and Information Commissioner.
+- Certified Processors — Some of our service providers (such as payment processors and infrastructure vendors) participate in the EU–U.S. Data Privacy Framework ("DPF") or equivalent certification programs, which provide an additional layer of protection when personal data is transferred to the U.S.
 
-By accessing or using the Services or otherwise providing information to us, you understand that your information will be processed as described in this Privacy Policy.
+By using the Platform or otherwise providing information to us, you acknowledge that your information may be transferred, stored, and processed in the United States or other jurisdictions as described in this Privacy Policy.
 
 ## Your Choices
 
