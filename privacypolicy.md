@@ -97,12 +97,12 @@ Specifically:
 - Where processors are located outside the European Economic Area ("EEA"), the United Kingdom ("UK"), or Switzerland, we ensure that appropriate safeguards (such as Standard Contractual Clauses) are in place to protect your personal data during international transfers.
 
 - Our main processors publish their own data-processing terms, which you can review for more information about their practices and commitments:
-  - [Stripe Data Processing Agreement](https://stripe.com/dpa)
-  - [PayPal Data Processing Addendum](https://www.paypal.com/us/legalhub/online-contracts)
+  - [Stripe Data Processing Agreement](https://stripe.com/legal/dpa)
+  - [PayPal Data Processing Addendum](https://www.paypal.com/us/legalhub/paypal/data-protection)
   - [Wise Data Processing Agreement](https://wise.com/legal/privacy-policy)
   - [Sentry Data Processing Agreement](https://sentry.io/legal/dpa/)
-  - [Salesforce (Heroku) Data Processing Addendum](https://www.salesforce.com/company/privacy/)
-  - [Cloudflare Data Processing Addendum](https://www.cloudflare.com/gdpr/dpa/)
+  - [Salesforce (Heroku) Data Processing Addendum](https://www.salesforce.com/en-us/wp-content/uploads/sites/4/documents/legal/Agreements/data-processing-addendum.pdf)
+  - [Cloudflare Data Processing Addendum](https://www.cloudflare.com/cloudflare-customer-dpa/)
 
 We periodically review and evaluate our processors to ensure they continue to meet our data-protection and security requirements.
 
