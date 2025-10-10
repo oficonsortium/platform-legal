@@ -110,6 +110,8 @@ Depending on your location, you may have certain rights regarding your personal 
 
 If you are unhappy with your information being processed, shared or stored in line with the content of this policy please email <a href="mailto:info@opencollective.com">info@opencollective.com</a> and we will work to address your concerns. Note that in order to maintain our accounting, tax and legal obligations we may be required to retain some private information about you even after processing a deletion request.
 
+You may withdraw your consent at any time where we rely on your consent to process your personal information, without affecting the lawfulness of processing before its withdrawal.
+
 To exercise any of these rights, please contact us as described in the "Contact Us" section below. Please note that we may request specific information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions.
 
 ## Social Sharing Features
