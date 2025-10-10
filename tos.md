@@ -4,7 +4,7 @@
 
 These Terms of Service ("**Terms**") apply to your access to and use of the websites, applications and other online products and services (collectively, our "**Platform**") provided by OFi Technologies LLC ("**OFiTech**" or "**we**"). **By creating an account or otherwise accessing the Platform, you agree to these Terms. If you do not agree to these Terms, including the mandatory arbitration provision and class action waiver in Section 18 that applies to residents of the United States, do not access or use our Platform.**
 
-If you have any questions about these Terms, you may contact us at [support@opencollective.com](mailto:support@opencollective.com). Please refer to our [Privacy Policy](/privacypolicy) for information about how we collect, use and disclose information about you.
+If you have any questions about these Terms, you may contact us at [support@opencollective.com](mailto:support@opencollective.com). Please refer to our [Privacy Policy](https://opencollective.com/privacypolicy) for information about how we collect, use and disclose information about you.
 
 ## 1. Overview of Our Platform
 
@@ -50,9 +50,7 @@ This Section applies to you if you use the Platform as a Financial Contributor.
 
 (b) **Contributions.** Each contribution you make is paid directly to an Organization that receives and holds funds. When a contribution is intended for a Collective, it is received and held by the Organization acting as its Host and must be used (less any applicable fees) in support of the designated Collective. When a contribution is intended for an Organization, it is held and used in accordance with that Organization’s stated purpose and terms.
 
-When making a contribution, you may be offered the option to include a Platform Tip to support the operation and maintenance of the Platform, operated by OFiTech. Platform Tips are voluntary unless otherwise specified and are part of the total amount collected by the Host together with your contribution. Platform Tips are accounted for separately from the Collective’s funds and do not reduce the amount contributed to the Collective.
-
-The Host is responsible for remitting any Platform Tips collected to OFiTech (or its affiliates) as described in Section 9(a). Your contribution (minus any Host Fees, Payment Processor fees, and applicable taxes) will be used by the Host in support of the Collective you have designated.
+When making a contribution, you may be offered the option to include a voluntary Platform Tip to support the operation of the Platform, as described in Section 9(a).
 
 Our Platform allows you to use and store a payment method via the Platform that is acceptable to us ("**Payment Method**") to pay for any contributions or to receive any expense payments. You represent and warrant that you are authorized to use the Payment Method. You authorize our designated third-party Payment Processor to charge the amount specified to your Payment Method for any contribution you authorize via the Platform. If the Payment Method cannot be verified, is invalid, or is not otherwise acceptable, your contribution may be suspended or cancelled automatically. Some Payment Methods may be offered as separately branded Payment Processor services (such as PayPal), and you agree to comply with the terms of those services.
 
@@ -81,7 +79,7 @@ This Section applies to you if you use the Platform as a Collective Admin.
 
 This Section applies to you if you use the Platform as a Host.
 
-(a) **Set-Up.** Any person or entity seeking to serve as Host for a Collective must be approved via the Platform. Hosts must agree to remit any Platform Tips collected through their chosen Payment Processor, either automatically via the Payment Processor’s integrated application-fee mechanism (e.g. Stripe) or periodically through invoicing or reconciliation, as described in Section 9(a). Hosts are also subject to the plan terms and usage allowances described in Section 9(e).
+(a) **Set-Up.** Any person or entity seeking to serve as Host for a Collective must be approved via the Platform. Hosts must remit any Platform Tips collected through the Platform to OFiTech as described in Section 9(a). Hosts are also subject to the plan terms and usage allowances described in Section 9(e).
 
 (b) **Contributions.** You agree to accept contributions of funds from Financial Contributors for designation to a specific Collective ("**Collective Funds**"). You must take accounting measures to segregate Collective Funds from your other funds, and maintain and use the Collective Funds solely for the benefit of the designated Collective and in accordance with these Terms. The Platform is designed to assist you in satisfying these responsibilities, by enabling you to export the global ledger and helping you to track the budget of each Collective to determine whether the Collective is operating as intended.
 
