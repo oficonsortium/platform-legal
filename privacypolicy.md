@@ -121,6 +121,14 @@ We engage other companies to provide analytics services via the Services. These 
 
 **OFiTech** takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. These measures include encryption of personal data where appropriate, and regular review of our information collection, storage and processing practices.
 
+## Data Breach Notification
+
+If **OFiTech** becomes aware of a personal data breach that is likely to result in a risk to your rights and freedoms, we will notify the competent supervisory authority in accordance with applicable data protection laws. When the breach is likely to result in a high risk to you, we will also notify affected individuals without undue delay.
+
+Our notifications will include, to the extent known at the time, the nature of the breach, the categories and approximate number of affected individuals and records, the likely consequences, and the measures we have taken or propose to take to address the breach.
+
+If the breach does not pose such a risk, we may record it internally without notifying individuals, in line with our legal obligations.
+
 ## International Data Transfers
 
 **OFiTech** is based in the United States and the information we collect is governed by U.S. law. When we transfer personal data from the European Economic Area (EEA), United Kingdom, or Switzerland to the United States or other countries which have not been determined by the European Commission to have laws that provide an adequate level of data protection, we use legal mechanisms designed to help ensure your rights and protections, including:
