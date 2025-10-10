@@ -25,9 +25,10 @@ The goal of the Platform is to promote transparency and make it easier to track 
 - **"Expense Submitter"** - an Expense Submitter is a Contributor that submits a payment request in connection with an expense incurred by that user in support of a Collective. Additional terms for Expense Submitters are included in Section 8 below.
 
 (b) For clarity, the Platform does not at any time receive, hold, or control funds on behalf of users.
-All funds are collected and disbursed by Hosts through integrated third-party payment services (e.g. Stripe, PayPal, or Wise), or through other approved or manual payment methods.
-These services (“Payment Processors”) handle contributions from Financial Contributors and disburse approved expense payments on behalf of Hosts. They may charge their own fees (“Payment Processor Fees”) as described in Section 9(c).
-Platform Tips, which help support the operation and maintenance of the Platform, are collected by Hosts and remitted to OFiTech as described in Section 9(a).
+All funds are collected and disbursed by Hosts through integrated third-party services such as Stripe, PayPal, or Wise (“Payment Processors”), or through other manual payment methods.
+Payment Processors handle contributions from Financial Contributors and disburse approved expense payments on behalf of Hosts.
+They may charge their own fees (“Payment Processor Fees”) as described in Section 9(c).
+Payment Processors are independent third parties, and OFiTech is not responsible for their actions, omissions, or system errors, including any delays, fees, or losses they may cause.
 
 (c) You acknowledge and agree that: (i) OFiTech is not a party to and has no responsibility or liability with respect to any communications, transactions, interactions, disputes, or any relationships whatsoever between users; (ii) OFiTech does not have any responsibility to investigate or verify the reputation, conduct, morality or criminal background of any user; and (iii) OFiTech has no responsibility with respect to determining or paying applicable taxes with respect to the Collective or any users.
 
@@ -110,7 +111,7 @@ b. periodically through invoicing or reconciliation when automatic transfer is n
 
 In cases where Platform Tips are not enabled or available for a Contribution, OFiTech may apply a Platform Fee (at the rate published at [https://opencollective.com/pricing](https://opencollective.com/pricing) or such other location as we may designate from time to time) charged to the Host.
 
-(c) **Payment Processor Fees**. If you use a Payment Processor (as defined in Section 1(b)) to accept payment or pay the expenses submitted, the party responsible for that service may charge additional fees.
+(c) **Payment Processor Fees**. If you use a Payment Processor (as defined in Section 1(b)) to collect contributions or disburse expense payments, that third-party service may charge additional fees (“Payment Processor Fees”). These fees are charged directly by the Payment Processor, and OFiTech is not responsible for them or for any actions, omissions, or errors by the Payment Processor.
 
 (d) **Taxes.** It is the Host’s responsibility to determine what, if any taxes apply to collection of contributions and disbursement of expense payments, including, for example, sales, use, value added, and similar taxes. It is also the Host’s responsibility to withhold, collect, report and remit the correct taxes to the appropriate tax authorities. OFiTech is not responsible for withholding, collecting, reporting, or remitting any sales, use, value added, or similar tax arising from any transaction completed via the Platform.
 
