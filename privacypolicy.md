@@ -2,13 +2,13 @@
 
 **Last Updated: 10 October 2025**
 
-<p class="lead">This Privacy Policy explains how information about you is collected, used, and disclosed by OFi Technologies LLC ("OFi Technologies", "we", "us", or "our"), a company 100% owned and controlled by Open Finance Consortium, a C3 non-profit. The opencollective.com website is operated by OFi Technologies LLC. This Privacy Policy applies to information we collect when you use our websites and online services (collectively, the "Services") or when you otherwise interact with us.</p>
+<p class="lead">This Privacy Policy explains how information about you is collected, used, and disclosed by OFi Technologies LLC ("OFiTech", "we", "us", or "our"), a company 100% owned and controlled by Open Finance Consortium Inc., a Delaware 501(c)(6) nonprofit corporation (“OFiCo”). The opencollective.com website is operated by **OFiTech**. This Privacy Policy applies to information we collect when you use our websites and online services (collectively, the "Services") or when you otherwise interact with us.</p>
 
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification). We encourage you to review the Privacy Policy whenever you access the Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy.
 
 ## Data Controller
 
-OFi Technologies LLC is the data controller of your personal information. We are responsible for, and determine how your personal data is processed. If you have any questions about this Privacy Policy or how we handle your personal data, please contact our Data Protection Officer at info@opencollective.com.
+**OFiTech** is the data controller of your personal information. We are responsible for, and determine how your personal data is processed. If you have any questions about this Privacy Policy or how we handle your personal data, please contact our Data Protection Officer at info@opencollective.com.
 
 ## Collection of Information
 
