@@ -85,7 +85,7 @@ This Section applies to you if you use the Platform as a Host.
 
 (c) **Expense Payments.** You may receive requests for payment of Collective Funds in the form of Expenses (**Expenses**) from Collective Admins in connection with expense payment requests submitted by Expense Submitters. Expenses must be approved by a Collective Admin through the Platform before they are eligible for payment. You are responsible for reviewing Expenses to confirm that they meet the Collective’s applicable criteria and process requirements for payment, and only authorizing disbursements if the Expense meets such requirements and is permitted under applicable law. If the Expense meets such requirements, you will authorize disbursement of the applicable amount of Collective Funds via the Platform.
 
-(d) **Host Fees**. You may charge a reasonable fee to the Collective in exchange for providing host services. You must disclose this fee clearly and conspicuously in advance of accepting any Collective Admin’s request that you serve as a Host for a Collective. Host Fees are distinct from Platform Tips and Platform Fees, which support the maintenance and development of the Platform as described in Section 9(a).
+(d) **Host Fees**. You may charge a reasonable fee to the Collective in exchange for providing host services. You must disclose this fee clearly and conspicuously in advance of accepting any Collective Admin’s request that you serve as a Host for a Collective. Host Fees are distinct from and in addition to any Platform Tips or Platform Fees described in Section 9(a).
 
 (e) **Tax Deduction.** You are responsible for providing any tax receipts, if applicable, to Financial Contributors who make contributions. Our Platform helps facilitate your compliance responsibilities by issuing receipts to Financial Contributors. However, you are responsible for providing all the details that will appear on those receipts to make sure that they can be tax deductible receipts (if applicable).
 
@@ -101,10 +101,10 @@ Expense Submitters must only submit requests for payment via the Platform for ex
 
 (a) **Platform Tips and Platform Fees.** The Platform, operated by OFiTech, relies primarily on voluntary Platform Tips to sustain its operation, development, and maintenance.
 
-Platform Tips are part of the total amount collected by the Host when a Contributor makes a payment. Platform Tips are accounted for separately from Collective funds and do not reduce the amount contributed to the Collective.
+Platform Tips are included in the total amount collected by the Host when a Contributor makes a payment. They are accounted for separately from Collective Funds and do not reduce the amount contributed to the Collective.
 
-The Host is responsible for remitting all Platform Tips collected to OFiTech (or its affiliates). Remittance may occur:
-a. automatically through the payment processor’s integrated "application fee" mechanism (for example, Stripe); or
+The Host is responsible for remitting Platform Tips to OFiTech (or its affiliates). Remittance may occur:
+a. automatically through the payment processor’s integrated “application fee” mechanism (for example, Stripe); or
 b. periodically through invoicing or reconciliation when automatic transfer is not available.
 
 In cases where Platform Tips are not enabled or available for a Contribution, OFiTech may apply a Platform Fee (at the rate published at [https://opencollective.com/pricing](https://opencollective.com/pricing) or such other location as we may designate from time to time) charged to the Host.
