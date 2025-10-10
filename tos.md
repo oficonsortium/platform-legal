@@ -77,7 +77,7 @@ This Section applies to you if you use the Platform as a Collective Admin.
 
 This Section applies to you if you use the Platform as a Host.
 
-(a) **Set-Up.** Any person or entity seeking to serve as Host for a Collective must be approved via the Platform. Hosts must agree to remit any Platform Tips collected through that processor, either automatically via the Payment Processor’s integrated application-fee mechanism (e.g. Stripe) or periodically through invoicing or reconciliation, as described in Section 9(a). Hosts are also subject to the plan terms and usage allowances described in Section 9(e).
+(a) **Set-Up.** Any person or entity seeking to serve as Host for a Collective must be approved via the Platform. Hosts must agree to remit any Platform Tips collected through their chosen Payment Processor, either automatically via the Payment Processor’s integrated application-fee mechanism (e.g. Stripe) or periodically through invoicing or reconciliation, as described in Section 9(a). Hosts are also subject to the plan terms and usage allowances described in Section 9(e).
 
 (b) **Contributions.** You agree to accept contributions of funds from Financial Contributors for designation to a specific Collective ("**Collective Funds**"). You must take accounting measures to segregate Collective Funds from your other funds, and maintain and use the Collective Funds solely for the benefit of the designated Collective and in accordance with these Terms. The Platform is designed to assist you in satisfying these responsibilities, by enabling you to export the global ledger and helping you to track the budget of each Collective to determine whether the Collective is operating as intended.
 
