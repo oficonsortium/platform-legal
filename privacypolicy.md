@@ -72,8 +72,6 @@ We work with third-party service providers to perform various operations related
 
 - **Sentry**: An error monitoring service that helps us identify and fix bugs in our applications. It may collect technical data related to errors encountered while using our Services.
 
-- **Metabase**: An analytics platform we use to analyze data.
-
 - **Heroku**: A cloud platform service where we host our applications. Your data may be stored on Heroku's servers as part of our service operations.
 
 - **Cloudflare**: A content delivery network and security service that helps us deliver our Services efficiently and securely. Cloudflare may process your IP address and other technical information when you access our Services.
