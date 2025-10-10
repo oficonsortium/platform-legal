@@ -18,10 +18,13 @@ We collect information you provide directly to us. For example, we collect infor
 
 ### Information We Collect Automatically
 
-When you access or use our Services, we automatically collect information about you, including:
+When you access or use the Platform, we automatically collect limited technical information necessary for it to function properly and securely. This includes:
 
-- **Log Information:** We collect log information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services.
-- **Information Collected by Cookies and Other Tracking Technologies:** We use various technologies to collect information, including cookies, local storage and web beacons. Cookies are small data files stored on your hard drive or in device memory that help us improve our Services and your experience, see which areas and features of our Services are popular and count visits. Local Storage similarly enables our Services to store data (like login tokens) securely in your browser and unlike cookies, it's not sent to the server on every request. Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits and understand usage and campaign effectiveness. For more information about cookies, and how to disable them, please see "Your Choices" below.</li>
+- **Essential Cookies and Local Storage**: We use only essential cookies and local storage to operate the Platform. These are required for functions such as maintaining your login session and remembering your language preference. They are not used for analytics, advertising, or tracking.
+- **Log Information**: We collect basic log information about your use of the Platform, such as the type of browser you use, access times, pages viewed, your IP address, and the page you visited before navigating to the Platform. This information is used solely for security, debugging, and operational purposes.
+- **Error and Performance Data**: Certain technical data (for example, from our hosting or monitoring services) may be collected automatically to detect and fix bugs, ensure platform stability, and protect against misuse.
+
+We do not use cookies, web beacons, or similar technologies for analytics, marketing, or cross-site tracking.
 
 ### Information We Collect From Other Sources
 
@@ -146,9 +149,13 @@ By using the Platform or otherwise providing information to us, you acknowledge 
 
 You may update the profile information you provide by logging into your online account. You may also request that we delete your account by contacting us at info@opencollective.com.
 
-### Cookies
+### Cookies and Local Storage
 
-Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
+We use only essential cookies and local storage to operate the Platform. These technologies are required for functions such as maintaining your login session and remembering your language preference.
+
+We do not use cookies or other tracking technologies for analytics, advertising, or marketing purposes.
+
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject cookies, but this may affect the functionality of the Platform.
 
 ### Promotional Communications
 
