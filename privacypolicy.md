@@ -156,7 +156,7 @@ We do not use automated decision-making processes that would produce legal effec
 
 ## Children's Privacy
 
-Our Services are not directed to children under the age of 16. We do not knowingly collect personal information from children under 16. If you are under 16, please do not provide any personal information to us. If you believe that a child under the age of 16 has provided us with personal information, please contact us at info@opencollective.com.
+Our Services are not directed to children under the age of 18. We do not knowingly collect personal information from children under 18. If you are under 18, please do not provide any personal information to us. If you believe that a child under the age of 18 has provided us with personal information, please contact us at info@opencollective.com.
 
 ## Changes to This Privacy Policy
 
