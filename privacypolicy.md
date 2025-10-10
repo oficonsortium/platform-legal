@@ -2,7 +2,7 @@
 
 **Last Updated: 10 October 2025**
 
-<p class="lead">This Privacy Policy explains how information about you is collected, used, and disclosed by OFi Technologies LLC ("OFiTech", "we", "us", or "our"), a company 100% owned and controlled by Open Finance Consortium Inc., a Delaware 501(c)(6) nonprofit corporation (“OFiCo”). The opencollective.com website is operated by **OFiTech**. This Privacy Policy applies to information we collect when you use our websites and online services (collectively, the "Services") or when you otherwise interact with us.</p>
+<p class="lead">This Privacy Policy covers the Open Collective Platform, accessible through the opencollective.com website and related domains (collectively referred to as "the Platform" or "the Services"), which is operated by OFi Technologies LLC ("OFiTech", "we", "us", or "our"), a company 100% owned and controlled by Open Finance Consortium Inc., a Delaware 501(c)(6) nonprofit corporation (“OFiCo”).</p>
 
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification). We encourage you to review the Privacy Policy whenever you access the Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy.
 
@@ -43,9 +43,9 @@ We may use information about you for various purposes, including to:
 - Provide, maintain and improve our Services, and develop new products and services;
 - Provide and deliver the products and services you request;
 - Send you notices, updates, and support and administrative messages;
-- Communicate with you about products, services, offers, promotions, rewards, and events offered by Open Collective and others, and provide news and information we think will be of interest to you;
+- Communicate with you about products, services, offers, promotions, rewards, and events offered by **OFiTech** and others, and provide news and information we think will be of interest to you;
 - Monitor and analyze trends, usage and activities in connection with our Services;
-- Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of Open Collective and others;
+- Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of **OFiTech** and others;
 - Personalize and improve the Services and provide content or features that match user profiles or interests;
 - Facilitate contests, sweepstakes and promotions and process and deliver entries and rewards;
 - Link or combine with information we collect about you; and
@@ -59,8 +59,8 @@ We may share information about you as follows or as otherwise described in this 
 - We will share your name and image with GitHub if you participate in a collective that is also working on a software project through GitHub;
 - With vendors, consultants and other service providers who need access to such information to carry out work on our behalf. If you submit a request to us, we will provide you with a list of the third-party service providers with which we have shared information about you for the 12 months prior to your request;
 - In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation or legal process;
-- If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of Open Collective or others;
-- In connection with, or during negotiations of, any merger, sale of Open Collective assets, financing or acquisition of all or a portion of our business by another company;
+- If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of **OFiTech** or others;
+- In connection with, or during negotiations of, any merger, sale of **OFiTech** assets, financing or acquisition of all or a portion of our business by another company;
 - With your consent or at your direction;
 - We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
 
@@ -117,15 +117,15 @@ The Services may offer social sharing features and other integrated tools, which
 
 ## Analytics Services Provided by Others
 
-We engage other companies to provide analytics services via the Services. These companies may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked and conversion information. This information may be used by Open Collective and others to, among other things, analyze and track data, determine the popularity of certain content, and better understand how our services are being used.
+We engage other companies to provide analytics services via the Services. These companies may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked and conversion information. This information may be used by **OFiTech** and others to, among other things, analyze and track data, determine the popularity of certain content, and better understand how our services are being used.
 
 ## Security
 
-Open Collective takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. These measures include encryption of personal data where appropriate, and regular review of our information collection, storage and processing practices.
+**OFiTech** takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. These measures include encryption of personal data where appropriate, and regular review of our information collection, storage and processing practices.
 
 ## International Data Transfers
 
-Open Collective is based in the United States and the information we collect is governed by U.S. law. When we transfer personal data from the European Economic Area (EEA), United Kingdom, or Switzerland to the United States or other countries which have not been determined by the European Commission to have laws that provide an adequate level of data protection, we use legal mechanisms designed to help ensure your rights and protections, including:
+**OFiTech** is based in the United States and the information we collect is governed by U.S. law. When we transfer personal data from the European Economic Area (EEA), United Kingdom, or Switzerland to the United States or other countries which have not been determined by the European Commission to have laws that provide an adequate level of data protection, we use legal mechanisms designed to help ensure your rights and protections, including:
 
 - Standard Contractual Clauses approved by the European Commission
 - Obtaining your explicit consent for certain types of processing
@@ -144,7 +144,7 @@ Most web browsers are set to accept cookies by default. If you prefer, you can u
 
 ### Promotional Communications
 
-You may opt out of receiving promotional or notification emails from Open Collective by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.
+You may opt out of receiving promotional or notification emails from **OFiTech** by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.
 
 ### Do Not Track
 
