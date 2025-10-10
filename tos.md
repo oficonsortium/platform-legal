@@ -24,8 +24,8 @@ The goal of the Platform is to promote transparency and make it easier to track 
 
 - **"Expense Submitter"** - an Expense Submitter is a Contributor that submits a payment request in connection with an expense incurred by that user in support of a Collective. Additional terms for Expense Submitters are included in Section 8 below.
 
-(b)For clarity, the Platform does not at any time receive, hold, or control funds on behalf of users.
-All funds are collected and disbursed by Hosts through integrated third-party payment processors such as Stripe, PayPal, or Wise, or through other approved or manual payment methods.
+(b) For clarity, the Platform does not at any time receive, hold, or control funds on behalf of users.
+All funds are collected and disbursed by Hosts through integrated third-party payment services (e.g. Stripe, PayPal, or Wise), or through other approved or manual payment methods.
 These services (“Payment Processors”) handle contributions from Financial Contributors and disburse approved expense payments on behalf of Hosts. They may charge their own fees (“Payment Processor Fees”) as described in Section 9(c).
 Platform Tips, which help support the operation and maintenance of the Platform, are collected by Hosts and remitted to OFiTech as described in Section 9(a).
 
