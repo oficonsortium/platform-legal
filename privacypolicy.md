@@ -81,6 +81,31 @@ We work with third-party service providers to perform various operations related
 
 Each of these providers maintains their own privacy policies that govern how they use, store, and process the data they receive. We encourage you to review these policies for more information about their practices.
 
+## Data Processing Agreements & Safeguards
+
+We engage certain third-party service providers to process personal data on our behalf (for example for hosting, payments, email, and infrastructure). These providers act as "processors" under the GDPR, and we require that they operate only on our documented instructions and under strict safeguards.
+
+Specifically:
+
+- We enter into a Data Processing Agreement ("DPA") with each processor that handles your personal information, requiring them to:
+  1. Process data only according to our instructions;
+  2. Implement appropriate technical and organizational measures to ensure data security, such as encryption, access control, and pseudonymization where feasible;
+  3. Assist us in responding to requests to exercise individual data rights, such as access, correction, or deletion;
+  4. Notify us of any personal data breach or security incident without undue delay; and
+  5. Return or securely delete personal data at the end of the processing relationship, unless retention is required by law.
+
+- Where processors are located outside the European Economic Area ("EEA"), the United Kingdom ("UK"), or Switzerland, we ensure that appropriate safeguards (such as Standard Contractual Clauses) are in place to protect your personal data during international transfers.
+
+- Our main processors publish their own data-processing terms, which you can review for more information about their practices and commitments:
+  - [Stripe Data Processing Agreement](https://stripe.com/dpa)
+  - [PayPal Data Processing Addendum](https://www.paypal.com/us/legalhub/online-contracts)
+  - [Wise Data Processing Agreement](https://wise.com/legal/privacy-policy)
+  - [Sentry Data Processing Agreement](https://sentry.io/legal/dpa/)
+  - [Salesforce (Heroku) Data Processing Addendum](https://www.salesforce.com/company/privacy/)
+  - [Cloudflare Data Processing Addendum](https://www.cloudflare.com/gdpr/dpa/)
+
+We periodically review and evaluate our processors to ensure they continue to meet our data-protection and security requirements.
+
 ## Data Retention
 
 We retain your personal information for as long as necessary to fulfill the purposes for which we collected it, including for the purposes of satisfying any legal, accounting, or reporting requirements.
